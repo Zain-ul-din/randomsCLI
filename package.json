@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1" ,
-    "start" : "node index.js"
+    "start" : "node ./src/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,6 +15,9 @@
   "keywords": [
     "randomsCLI"
   ],
+  "bin": {
+    "randoms_cli": "./src/index.js"
+  },
   "author": "zain ul din",
   "license": "MIT",
   "bugs": {
