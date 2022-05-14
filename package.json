@@ -1,0 +1,23 @@
+{
+  "name": "randoms_cli",
+  "version": "1.0.0",
+  "description": "interactive cli for creative coding in cplusplus",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zain-ul-din/randomsCLI.git"
+  },
+  "keywords": [
+    "randomsCLI"
+  ],
+  "author": "zain ul din",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zain-ul-din/randomsCLI/issues"
+  },
+  "homepage": "https://github.com/Zain-ul-din/randomsCLI#readme"
+}
