@@ -1,19 +1,18 @@
 
 #include<iostream>
 
-class Pro {
-public:
-   // constructor
+class Book {
+  public:
 
-   // Getter / Setter
-
-   // operator OverLoading
-private:
-   int data;
-   std::string ss;
 };
 
+class student   {
+      
+};
+
+class Me final ;
+
+// Driver Code
 int main () {
-    std::cout << "Hello Boi \n";
-    return 0;
+    
 }
